@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Log in story (21)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (21).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1608410_out_sign_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1608410_out_sign_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7000034_halloween_schedule_calendar_event_time_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7000034_halloween_schedule_calendar_event_time_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1291736_algebra_calculator_math_mathmematics_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1291736_algebra_calculator_math_mathmematics_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022703_number_circle_four_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022703_number_circle_four_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022580_number_circle_one_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022580_number_circle_one_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11121526_fi_rr_dot_circle_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11121526_fi_rr_dot_circle_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Main menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Main menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (24)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (24).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="103660_notes_add_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\103660_notes_add_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9554755_save_mark_download_cloud_down_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9554755_save_mark_download_cloud_down_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9024790_number_circle_two_light_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9024790_number_circle_two_light_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9021567_number_circle_two_bold_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9021567_number_circle_two_bold_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11121291_fi_rr_circle_1_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11121291_fi_rr_circle_1_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022704_number_circle_five_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022704_number_circle_five_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5027838_dollar_management_money_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5027838_dollar_management_money_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="numbers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\numbers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (26)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (26).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5027881_business_chart_finance_graph_money_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5027881_business_chart_finance_graph_money_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1291736_algebra_calculator_math_mathmematics_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1291736_algebra_calculator_math_mathmematics_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (18)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (18).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (23)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (23).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (5)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (5)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (16)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (16).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (8)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (8)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022519_number_circle_nine_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022519_number_circle_nine_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3380379_storage_memory_diskette_save_floppy_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3380379_storage_memory_diskette_save_floppy_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022506_number_circle_seven_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022506_number_circle_seven_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (17)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (17).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (14)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (14).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022607_number_circle_zero_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022607_number_circle_zero_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (12)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (12).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8168681_calculator_math_accounting_finance_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8168681_calculator_math_accounting_finance_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="657912_cricle_cross_delete_multiply_osx_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\657912_cricle_cross_delete_multiply_osx_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022581_number_circle_two_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022581_number_circle_two_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022557_number_circle_eight_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022557_number_circle_eight_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1904677_add_addition_calculate_charge_create_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1904677_add_addition_calculate_charge_create_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3688491_active_eye_show_visible_find_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3688491_active_eye_show_visible_find_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (10)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (10).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6012901_diagnosis_document_medical_paper_records_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6012901_diagnosis_document_medical_paper_records_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (19)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (19).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="equal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\equal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (22)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (22).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9698536_minus_cirlce_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9698536_minus_cirlce_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022558_number_circle_six_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022558_number_circle_six_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6351909_arrow_back_backspace_delete_erase_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6351909_arrow_back_backspace_delete_erase_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (7)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (7)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (15)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (15).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9004831_printer_print_office_document_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9004831_printer_print_office_document_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11121526_fi_rr_dot_circle_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11121526_fi_rr_dot_circle_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (13)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (13).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (25)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (25).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (20)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (20).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1329089_arrows_circle_refresh_replace_round_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1329089_arrows_circle_refresh_replace_round_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9022549_number_circle_three_duotone_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9022549_number_circle_three_duotone_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9004860_arrow_direction_left_back_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9004860_arrow_direction_left_back_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9034486_dot_filled_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9034486_dot_filled_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9004799_arrow_direction_left_back_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9004799_arrow_direction_left_back_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8725864_equal_circle_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8725864_equal_circle_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (11)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (11).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9004852_trash_delete_bin_remove_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9004852_trash_delete_bin_remove_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Log in story (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Log in story (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11121526_fi_rr_dot_circle_icon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11121526_fi_rr_dot_circle_icon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

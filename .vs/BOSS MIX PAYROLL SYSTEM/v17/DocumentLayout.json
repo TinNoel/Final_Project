@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|c:\\users\\chesk\\source\\repos\\boss mix payroll system\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|c:\\users\\chesk\\source\\repos\\boss mix payroll system\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|c:\\users\\chesk\\source\\repos\\boss mix payroll system\\keepnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:keepnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|c:\\users\\chesk\\source\\repos\\boss mix payroll system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|c:\\users\\chesk\\source\\repos\\boss mix payroll system\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|c:\\users\\chesk\\source\\repos\\boss mix payroll system\\deductions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:deductions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410447A6-8D9F-41D1-9F58-DDC03062D83B}|BOSS MIX PAYROLL SYSTEM.csproj|solutionrelative:calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "SignUpForm.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\SignUpForm.cs",
+              "RelativeToolTip": "SignUpForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:50:15.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PAYROLL.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\PAYROLL.cs",
+              "RelativeDocumentMoniker": "PAYROLL.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\PAYROLL.cs",
+              "RelativeToolTip": "PAYROLL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:49:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeepNotes.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\KeepNotes.cs",
+              "RelativeDocumentMoniker": "KeepNotes.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\KeepNotes.cs",
+              "RelativeToolTip": "KeepNotes.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:49:37.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\LogInForm.cs",
+              "RelativeDocumentMoniker": "LogInForm.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\LogInForm.cs",
+              "RelativeToolTip": "LogInForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:49:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRecord.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\EmployeeRecord.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\EmployeeRecord.cs",
+              "RelativeToolTip": "EmployeeRecord.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:49:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deductions.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\Deductions.cs",
+              "RelativeDocumentMoniker": "Deductions.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\Deductions.cs",
+              "RelativeToolTip": "Deductions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:48:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "CalculatorForm.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\CalculatorForm.cs",
+              "RelativeToolTip": "CalculatorForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:58:49.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\chesk\\source\\repos\\BOSS MIX PAYROLL SYSTEM\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:02:26.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

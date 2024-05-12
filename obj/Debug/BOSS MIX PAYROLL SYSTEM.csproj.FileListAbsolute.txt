@@ -1,0 +1,39 @@
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\BOSS MIX PAYROLL SYSTEM.exe
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\BOSS MIX PAYROLL SYSTEM.exe.config
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.Workspace.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.LogInForm.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.MainForm.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.Properties.Resources.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.SignUpForm.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.csproj.GenerateResource.cache
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.exe
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.pdb
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\BOSS MIX PAYROLL SYSTEM.pdb
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.KeepNotes.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.CalculatorForm.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.Deductions.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.EmployeeRecord.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.PAYROLL.resources
+C:\Users\jessa\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.PAYSLIP.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\BOSS MIX PAYROLL SYSTEM.exe.config
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\BOSS MIX PAYROLL SYSTEM.exe
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\BOSS MIX PAYROLL SYSTEM.pdb
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.CalculatorForm.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.Deductions.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.EmployeeRecord.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.Workspace.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.KeepNotes.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.LogInForm.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.MainForm.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.PAYROLL.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.PAYSLIP.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.Properties.Resources.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS_MIX_PAYROLL_SYSTEM.SignUpForm.resources
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.csproj.GenerateResource.cache
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.exe
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\obj\Debug\BOSS MIX PAYROLL SYSTEM.pdb
+C:\Users\chesk\source\repos\BOSS MIX PAYROLL SYSTEM\bin\Debug\database\BOSS MIX PAYROLL.accdb
